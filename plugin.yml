@@ -1,0 +1,5 @@
+name: MoneyAPI
+main: MoneyAPI\Main
+author: Angel
+api: 3.0.0-ALPHA7
+version: 0.0.1
